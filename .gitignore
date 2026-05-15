@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.vscode/
+.vercel/
+
+.env
+.env.local
+.env.production
+
+*.tsbuildinfo
